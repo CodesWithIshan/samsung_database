@@ -1,0 +1,1130 @@
+[
+    {
+        "model": "SM-A055F",
+        "build_id": [
+            "A055FODMDDZA1",
+            "A055FOJMDDZA1",
+            "A055FOLEDDZA3",
+            "A055FOLMDDZA1",
+            "A055FOLMDDZA3",
+            "A055FOXMDDZA1",
+            "A055FXXSDDZA1",
+            "A055FXXSDDZA3"
+        ]
+    },
+    {
+        "model": "SM-A055M",
+        "build_id": [
+            "A055MOWOFDZA1",
+            "A055MUBSFDZA1"
+        ]
+    },
+    {
+        "model": "SM-A057G",
+        "build_id": [
+            "A057GOXM9DYJ1",
+            "A057GXXS9DYJ1"
+        ]
+    },
+    {
+        "model": "SM-A057F",
+        "build_id": [
+            "A057FODMBDYJ1",
+            "A057FOJMBDYJ1",
+            "A057FOLEBDYJ1",
+            "A057FOLMBDYJ1",
+            "A057FOXEBDYJ1",
+            "A057FXXSBDYJ1"
+        ]
+    },
+    {
+        "model": "SM-A057M",
+        "build_id": [
+            "A057MOWOCDYJ2",
+            "A057MUBSCDYJ2"
+        ]
+    },
+    {
+        "model": "SM-A066B",
+        "build_id": [
+            "A066BODM4BZA1",
+            "A066BOLM3BYJ4",
+            "A066BXXS4BZA1",
+            "A066BXXU3BYI9",
+            "A066BXXU3BYJ4"
+        ]
+    },
+    {
+        "model": "SM-A065F",
+        "build_id": [
+            "A065FODM8CYK2",
+            "A065FOJM9CZA1",
+            "A065FOLE9CZA1",
+            "A065FOLM9CZA1",
+            "A065FOXM9CZA1",
+            "A065FXXS8CYK1",
+            "A065FXXS8CYK2",
+            "A065FXXS9CZA1"
+        ]
+    },
+    {
+        "model": "SM-A065M",
+        "build_id": [
+            "A065MOWO9CZA1",
+            "A065MUBS9CZA1"
+        ]
+    },
+    {
+        "model": "SM-A075F",
+        "build_id": [
+            "A075FODM3BZA2",
+            "A075FOJM3BZA1",
+            "A075FOLM3BZA1",
+            "A075FOXM3BZA1",
+            "A075FXXS3BZA1",
+            "A075FXXS3BZA2"
+        ]
+    },
+    {
+        "model": "SM-A075M",
+        "build_id": [
+            "A075MOWO3BZA1",
+            "A075MUBS3BZA1"
+        ]
+    },
+    {
+        "model": "SM-A076B",
+        "build_id": [
+            "A076BOLM2AZA3",
+            "A076BOLM2AZA4",
+            "A076BXXS2AZA3"
+        ]
+    },
+    {
+        "model": "SM-A135M",
+        "build_id": [
+            "A135MOWOCDYJ1",
+            "A135MUBSCDYJ1"
+        ]
+    },
+    {
+        "model": "SM-A135F",
+        "build_id": [
+            "A135FODMDEYJ1",
+            "A135FOJMDEYJ1",
+            "A135FOLEDEYJ1",
+            "A135FOLMDEYJ1",
+            "A135FOXMDEYJ1",
+            "A135FXXSDEYJ1"
+        ]
+    },
+    {
+        "model": "SM-A135U1",
+        "build_id": [
+            "A135U1OYMDEYL1",
+            "A135U1UESDEYL1"
+        ]
+    },
+    {
+        "model": "SM-A145M",
+        "build_id": [
+            "A145MOWOBDYJ5",
+            "A145MUBUBDYJ5"
+        ]
+    },
+    {
+        "model": "SM-A145R",
+        "build_id": [
+            "A145ROXMCDZA1",
+            "A145RXXSCDZA1"
+        ]
+    },
+    {
+        "model": "SM-A145F",
+        "build_id": [
+            "A145FODMCDZA2",
+            "A145FOJMCDZA2",
+            "A145FOLECDZA2",
+            "A145FOLMCDZA2",
+            "A145FOXMCDZA2",
+            "A145FXXSCDZA2"
+        ]
+    },
+    {
+        "model": "SM-A145P",
+        "build_id": [
+            "A145POJMADZA1",
+            "A145PXXSADZA1"
+        ]
+    },
+    {
+        "model": "SM-A155F",
+        "build_id": [
+            "A155FOJM8DYL1",
+            "A155FOLE8DYL1",
+            "A155FOLM8DYL1",
+            "A155FOXM8DYL1",
+            "A155FXXS8DYL1"
+        ]
+    },
+    {
+        "model": "SM-A155M",
+        "build_id": [
+            "A155MOWO8DYL2",
+            "A155MUBS8DYL2"
+        ]
+    },
+    {
+        "model": "SM-A166E",
+        "build_id": [
+            "A166EOJM5CYL1",
+            "A166EXXS5CYL1"
+        ]
+    },
+    {
+        "model": "SM-A166P",
+        "build_id": [
+            "A166PODM6CZA1",
+            "A166POLE6CZA1",
+            "A166POLM6CZA1",
+            "A166PXXS6CZA1"
+        ]
+    },
+    {
+        "model": "SM-A166U1",
+        "build_id": [
+            "A166U1OYM4CYL1",
+            "A166U1UES4CYL1"
+        ]
+    },
+    {
+        "model": "SM-A166B",
+        "build_id": [
+            "A166BOXM5CYL1",
+            "A166BXXS5CYL1"
+        ]
+    },
+    {
+        "model": "SM-A165M",
+        "build_id": [
+            "A165MOWO6CYL1",
+            "A165MUBS6CYL1"
+        ]
+    },
+    {
+        "model": "SM-A165F",
+        "build_id": [
+            "A165FOJM6CYL1",
+            "A165FOLE6CYL1",
+            "A165FOLM6CYL1",
+            "A165FOXM6CYL1",
+            "A165FXXS6CYL1"
+        ]
+    },
+    {
+        "model": "SM-A175F",
+        "build_id": [
+            "A175FOWO2BYL1",
+            "A175FOXM2BYL1",
+            "A175FXXS2BYL1"
+        ]
+    },
+    {
+        "model": "SM-A176B",
+        "build_id": [
+            "A176BODM3BYK3",
+            "A176BOJM3BYK3",
+            "A176BOLM3BYK3",
+            "A176BOLM4BZA5",
+            "A176BOWO3BYK3",
+            "A176BOXM3BYK3",
+            "A176BXXS4BZA5",
+            "A176BXXU3BYK3"
+        ]
+    },
+    {
+        "model": "SM-A256B",
+        "build_id": [
+            "A256BOXM9DYK2",
+            "A256BXXS9DYK2"
+        ]
+    },
+    {
+        "model": "SM-A256U1",
+        "build_id": [
+            "A256U1OYM9DYK3",
+            "A256U1UES9DYK3"
+        ]
+    },
+    {
+        "model": "SM-A256E",
+        "build_id": [
+            "A256EODM9DYK2",
+            "A256EOJM9DYK2",
+            "A256EOLE9DYK2",
+            "A256EOLM9DYK2",
+            "A256EOWO9DYK2",
+            "A256EOXE9DYK2",
+            "A256EXXS9DYK2",
+            "A256EXXS9DYL1"
+        ]
+    },
+    {
+        "model": "SM-A266B",
+        "build_id": [
+            "A266BODM5BYK3",
+            "A266BOJM7BZA3",
+            "A266BOLM7BZA3",
+            "A266BOXM7BZA3",
+            "A266BXXS5BYK2",
+            "A266BXXS5BYK3",
+            "A266BXXS7BZA3"
+        ]
+    },
+    {
+        "model": "SM-A266U1",
+        "build_id": [
+            "A266U1OYM5BYK2",
+            "A266U1UES5BYK2"
+        ]
+    },
+    {
+        "model": "SM-A325F",
+        "build_id": [
+            "A325FODMCDYA2",
+            "A325FOJMCDYB2",
+            "A325FOLECDYB2",
+            "A325FOLMCDYB2",
+            "A325FOXM1AUD4",
+            "A325FOXM1AUD7",
+            "A325FOXMCDYB2",
+            "A325FXXSCDYA1",
+            "A325FXXSCDYA2",
+            "A325FXXSCDYB2",
+            "A325FXXU1AUCB",
+            "A325FXXU1AUCC",
+            "A325FXXU1AUD7"
+        ]
+    },
+    {
+        "model": "SM-A325M",
+        "build_id": [
+            "A325MOWOBDXL2",
+            "A325MUBSBDYC2"
+        ]
+    },
+    {
+        "model": "SM-A346E",
+        "build_id": [
+            "A346EODMCEYL2",
+            "A346EOJMCEYL2",
+            "A346EOLECEYL2",
+            "A346EOLMCEYL2",
+            "A346EOXECEYL2",
+            "A346EXXSCEYL2"
+        ]
+    },
+    {
+        "model": "SM-A3460",
+        "build_id": [
+            "A3460OZSCEYL2",
+            "A3460ZHSCEYL2"
+        ]
+    },
+    {
+        "model": "SM-A346M",
+        "build_id": [
+            "A346MOWODEZA1",
+            "A346MUBSDEZA1"
+        ]
+    },
+    {
+        "model": "SM-A346B",
+        "build_id": [
+            "A346BOXMDEYL2",
+            "A346BXXSDEYL2"
+        ]
+    },
+    {
+        "model": "SM-A356E",
+        "build_id": [
+            "A356EODM6CYK1",
+            "A356EOJM6CYK1",
+            "A356EOLE6CYK1",
+            "A356EOLM6CYK1",
+            "A356EOWO6CYK1",
+            "A356EOXE6CYK1",
+            "A356EXXS6CYK1",
+            "A356EXXS6CYL1"
+        ]
+    },
+    {
+        "model": "SM-A356U1",
+        "build_id": [
+            "A356U1OYM7CYK3",
+            "A356U1UES7CYK3"
+        ]
+    },
+    {
+        "model": "SM-A356B",
+        "build_id": [
+            "A356BOXM7CYK1",
+            "A356BXXS7CYK1"
+        ]
+    },
+    {
+        "model": "SM-A366E",
+        "build_id": [
+            "A366EODM7BZA2",
+            "A366EOWO7BZA1",
+            "A366EOXE7BZA1",
+            "A366EXXS7BZA1",
+            "A366EXXS7BZA2"
+        ]
+    },
+    {
+        "model": "SM-A366B",
+        "build_id": [
+            "A366BOJM7BZA1",
+            "A366BOLM7BZA1",
+            "A366BOXM7BZA1",
+            "A366BXXS7BZA1"
+        ]
+    },
+    {
+        "model": "SM-A366U1",
+        "build_id": [
+            "A366U1OYM5BZA1",
+            "A366U1UES5BZA1"
+        ]
+    },
+    {
+        "model": "SM-A536U1",
+        "build_id": [
+            "A536U1OYMJGZA3",
+            "A536U1UESJGZA3"
+        ]
+    },
+    {
+        "model": "SM-A5360",
+        "build_id": [
+            "A5360OZSJGZA2",
+            "A5360ZCSJGZA2",
+            "A5360ZHSJGZA2"
+        ]
+    },
+    {
+        "model": "SM-A536B",
+        "build_id": [
+            "A536BOXMJGZA2",
+            "A536BXXSJGZA2"
+        ]
+    },
+    {
+        "model": "SM-A536E",
+        "build_id": [
+            "A536EODMJGZA2",
+            "A536EOJMJGZA2",
+            "A536EOLEJGZA2",
+            "A536EOLMJGZA2",
+            "A536EOWOJGZA1",
+            "A536EOXEJGZA2",
+            "A536EXXSJGZA2"
+        ]
+    },
+    {
+        "model": "SM-A546E",
+        "build_id": [
+            "A546EODMHEZA1",
+            "A546EOJMHEZA3",
+            "A546EOLEHEZA4",
+            "A546EOLMHEZA3",
+            "A546EOLMHEZA4",
+            "A546EOWOHEZA3",
+            "A546EOXEHEZA3",
+            "A546EXXSHEZA3",
+            "A546EXXSHEZA4"
+        ]
+    },
+    {
+        "model": "SM-A5460",
+        "build_id": [
+            "A5460OZSHEZA3",
+            "A5460ZCSHEZA3",
+            "A5460ZHSHEZA3"
+        ]
+    },
+    {
+        "model": "SM-A546U1",
+        "build_id": [
+            "A546U1OYMGEYK3",
+            "A546U1UESGEYK3"
+        ]
+    },
+    {
+        "model": "SM-A546B",
+        "build_id": [
+            "A546BOXMHEZA3",
+            "A546BXXSHEZA1",
+            "A546BXXSHEZA3"
+        ]
+    },
+    {
+        "model": "SM-A556E",
+        "build_id": [
+            "A556EODMCCYL3",
+            "A556EOJMCCZA1",
+            "A556EOLECCZA1",
+            "A556EOLMCCZA1",
+            "A556EOWOCCZA1",
+            "A556EOXECCZA1",
+            "A556EXXSCCZA1"
+        ]
+    },
+    {
+        "model": "SM-A556B",
+        "build_id": [
+            "A556BOXMCCZA1",
+            "A556BXXSCCZA1"
+        ]
+    },
+    {
+        "model": "SM-A5560",
+        "build_id": [
+            "A5560OZSCCZA1",
+            "A5560ZCSCCZA1",
+            "A5560ZHSCCZA1"
+        ]
+    },
+    {
+        "model": "SM-A566E",
+        "build_id": [
+            "A566EODM8BZA2",
+            "A566EOWO8BZA1",
+            "A566EOXE8BZA1",
+            "A566EXXS8BZA1",
+            "A566EXXS8BZA2"
+        ]
+    },
+    {
+        "model": "SM-A566U1",
+        "build_id": [
+            "A566U1OYM4BYL2",
+            "A566U1UES4BYL2"
+        ]
+    },
+    {
+        "model": "SM-A566B",
+        "build_id": [
+            "A566BOJM8BZA1",
+            "A566BOLM8BZA1",
+            "A566BOXM8BZA7",
+            "A566BXXS8BZA1",
+            "A566BXXS8BZA7"
+        ]
+    },
+    {
+        "model": "SM-A5660",
+        "build_id": [
+            "A5660OZS8BZA1",
+            "A5660ZCS8BZA1",
+            "A5660ZHS8BZA1"
+        ]
+    },
+    {
+        "model": "SM-N986B",
+        "build_id": [
+            "N986BDDSIHYH5",
+            "N986BOLEIHYH3",
+            "N986BOWOIHYH3",
+            "N986BOXM3EVA9",
+            "N986BOXMIHYH3",
+            "N986BOXMIHYH4",
+            "N986BOXMIHYH5",
+            "N986BOXMIHYH6",
+            "N986BXXSIHYH3",
+            "N986BXXSIHYH4",
+            "N986BXXSIHYH5",
+            "N986BXXU3EVA9"
+        ]
+    },
+    {
+        "model": "SM-N986U1",
+        "build_id": [
+            "N986U1OYMEHYH1",
+            "N986U1UESEHYH1"
+        ]
+    },
+    {
+        "model": "SM-N9860",
+        "build_id": [
+            "N9860OZSEHYG5",
+            "N9860ZCSEHYG5",
+            "N9860ZSSEHYG5"
+        ]
+    },
+    {
+        "model": "SM-G991B",
+        "build_id": [
+            "G991BOLEJHZA6",
+            "G991BOWOHHYJ3",
+            "G991BOXMIHYK1",
+            "G991BOXMJHZA6",
+            "G991BXXSHHYJ1",
+            "G991BXXSHHYJ3",
+            "G991BXXSIHYK1",
+            "G991BXXSJHZA6"
+        ]
+    },
+    {
+        "model": "SM-G9910",
+        "build_id": [
+            "G9910OZSFHYL1",
+            "G9910ZCSFHYL1",
+            "G9910ZHSFHYL1"
+        ]
+    },
+    {
+        "model": "SM-G991U1",
+        "build_id": [
+            "G991U1OYMJHZAA",
+            "G991U1UESJHZAA"
+        ]
+    },
+    {
+        "model": "SM-G990E",
+        "build_id": [
+            "G990EODMLHZA1",
+            "G990EOJMLHZA1",
+            "G990EOLELHZA1",
+            "G990EOLMLHZA1",
+            "G990EOWOLHZA1",
+            "G990EXXSLHZA1"
+        ]
+    },
+    {
+        "model": "SM-G990U1",
+        "build_id": [
+            "G990U1OYMLIZA1",
+            "G990U1UESLIZA1"
+        ]
+    },
+    {
+        "model": "SM-G990B2",
+        "build_id": [
+            "G990B2ODMHIZA1",
+            "G990B2OXMHIZA1",
+            "G990B2XXSHIZA1"
+        ]
+    },
+    {
+        "model": "SM-G990U3",
+        "build_id": [
+            "G990U3OYMJIZA1",
+            "G990U3UESJIZA1"
+        ]
+    },
+    {
+        "model": "SM-G990B",
+        "build_id": [
+            "G990BOXMIIZA1",
+            "G990BXXSIIZA1"
+        ]
+    },
+    {
+        "model": "SM-G9900",
+        "build_id": [
+            "G9900OZSIIZA1",
+            "G9900ZHSIIZA1"
+        ]
+    },
+    {
+        "model": "SM-G998U1",
+        "build_id": [
+            "G998U1OYMJHZAA",
+            "G998U1UESJHZAA"
+        ]
+    },
+    {
+        "model": "SM-G998B",
+        "build_id": [
+            "G998BOLEJHZA6",
+            "G998BOWOHHYJ3",
+            "G998BOXMIHYK1",
+            "G998BOXMJHZA6",
+            "G998BXXSHHYJ1",
+            "G998BXXSHHYJ3",
+            "G998BXXSIHYK1",
+            "G998BXXSJHZA6"
+        ]
+    },
+    {
+        "model": "SM-G9980",
+        "build_id": [
+            "G9980OZSFHYL1",
+            "G9980ZCSFHYL1",
+            "G9980ZHSFHYL1"
+        ]
+    },
+    {
+        "model": "SM-S901U1",
+        "build_id": [
+            "S901U1OYM8GZA1",
+            "S901U1UES8GZA1"
+        ]
+    },
+    {
+        "model": "SM-S901B",
+        "build_id": [
+            "S901BOXMLGZA1",
+            "S901BXXSLGZA1"
+        ]
+    },
+    {
+        "model": "SM-S9010",
+        "build_id": [
+            "S9010OZS9GZA1",
+            "S9010ZCS9GZA1",
+            "S9010ZHS9GZA1"
+        ]
+    },
+    {
+        "model": "SM-S901E",
+        "build_id": [
+            "S901EOLECGZA2",
+            "S901EOWOCGYL1",
+            "S901EOXMCGYL1",
+            "S901EOXMCGZA2",
+            "S901EXXSCGYL1",
+            "S901EXXSCGZA2"
+        ]
+    },
+    {
+        "model": "SM-S908E",
+        "build_id": [
+            "S908EOLECGZA2",
+            "S908EOWOCGYL1",
+            "S908EOXMCGYL1",
+            "S908EOXMCGZA2",
+            "S908EXXSCGYL1",
+            "S908EXXSCGZA2"
+        ]
+    },
+    {
+        "model": "SM-S908B",
+        "build_id": [
+            "S908BOXMLGZA1",
+            "S908BXXSLGZA1"
+        ]
+    },
+    {
+        "model": "SM-S908U1",
+        "build_id": [
+            "S908U1OYM8GZA1",
+            "S908U1UES8GZA1"
+        ]
+    },
+    {
+        "model": "SM-S9080",
+        "build_id": [
+            "S9080OZS9GZA1",
+            "S9080ZCS9GZA1",
+            "S9080ZHS9GZA1"
+        ]
+    },
+    {
+        "model": "SM-S711B",
+        "build_id": [
+            "S711BODMDFZA1",
+            "S711BOJMDFZA1",
+            "S711BOLEDFZA1",
+            "S711BOLMDFZA1",
+            "S711BOWODFZA1",
+            "S711BOXMDFZA1",
+            "S711BXXSDFZA1"
+        ]
+    },
+    {
+        "model": "SM-S711U1",
+        "build_id": [
+            "S711U1OYM6EZA1",
+            "S711U1UES6EZA1"
+        ]
+    },
+    {
+        "model": "SM-S711U",
+        "build_id": [
+            "S711UOYN6EYL1",
+            "S711USQS6EYL1"
+        ]
+    },
+    {
+        "model": "SM-S7110",
+        "build_id": [
+            "S7110OZS6FZA1",
+            "S7110ZCS6FZA1",
+            "S7110ZHS6FZA1"
+        ]
+    },
+    {
+        "model": "SM-S918B",
+        "build_id": [
+            "S918BOLE8EZA1",
+            "S918BOWO8EZA1",
+            "S918BOXM8EZA1",
+            "S918BXXS8EZA1",
+            "S918BXXU8EYI5"
+        ]
+    },
+    {
+        "model": "SM-S918U",
+        "build_id": [
+            "S918UOYN6EYL1",
+            "S918USQS6EYL1"
+        ]
+    },
+    {
+        "model": "SM-S9180",
+        "build_id": [
+            "S9180OZS6EZA1",
+            "S9180ZCS6EZA1",
+            "S9180ZHS6EZA1"
+        ]
+    },
+    {
+        "model": "SM-S918U1",
+        "build_id": [
+            "S918U1OYM6EZA1",
+            "S918U1UES6EZA1"
+        ]
+    },
+    {
+        "model": "SM-S911B",
+        "build_id": [
+            "S911BOLE8EZA1",
+            "S911BOWO8EZA1",
+            "S911BOXM8EZA1",
+            "S911BXXS8EZA1",
+            "S911BXXU8EYI5"
+        ]
+    },
+    {
+        "model": "SM-S911U",
+        "build_id": [
+            "S911UOYN6EYL1",
+            "S911USQS6EYL1"
+        ]
+    },
+    {
+        "model": "SM-S9110",
+        "build_id": [
+            "S9110OZS6EZA1",
+            "S9110ZCS6EZA1",
+            "S9110ZHS6EZA1"
+        ]
+    },
+    {
+        "model": "SM-S911U1",
+        "build_id": [
+            "S911U1OYM6EZA1",
+            "S911U1UES6EZA1"
+        ]
+    },
+    {
+        "model": "SM-S721U1",
+        "build_id": [
+            "S721U1OYM9CZA2",
+            "S721U1UES9CZA2"
+        ]
+    },
+    {
+        "model": "SM-S721B",
+        "build_id": [
+            "S721BODM9CZA2",
+            "S721BOJM9CZA2",
+            "S721BOLE9CZA2",
+            "S721BOLM9CZA2",
+            "S721BOWO9CZA2",
+            "S721BOXE9CZA2",
+            "S721BOXM9CZA2",
+            "S721BXXS9CZA2"
+        ]
+    },
+    {
+        "model": "SM-S7210",
+        "build_id": [
+            "S7210OZS9CZA2",
+            "S7210ZHS9CZA2"
+        ]
+    },
+    {
+        "model": "SM-S928U",
+        "build_id": [
+            "S928UOYN4CYL1",
+            "S928USQS4CYL1"
+        ]
+    },
+    {
+        "model": "SM-S928B",
+        "build_id": [
+            "S928BOLE4CZA1",
+            "S928BOWO4CZA1",
+            "S928BOXM4CZA1",
+            "S928BXXS4CZA1"
+        ]
+    },
+    {
+        "model": "SM-S928U1",
+        "build_id": [
+            "S928U1OYM4CZA1",
+            "S928U1UES4CZA1"
+        ]
+    },
+    {
+        "model": "SM-S9280",
+        "build_id": [
+            "S9280OZS4CZA1",
+            "S9280ZCS4CZA1",
+            "S9280ZHS4CZA1"
+        ]
+    },
+    {
+        "model": "SM-S921B",
+        "build_id": [
+            "S921BOLECCZA1",
+            "S921BOWOCCZA1",
+            "S921BOXMCCZA1",
+            "S921BXXSCCZA1"
+        ]
+    },
+    {
+        "model": "SM-S9210",
+        "build_id": [
+            "S9210OZS4CZA1",
+            "S9210ZCS4CZA1",
+            "S9210ZHS4CZA1"
+        ]
+    },
+    {
+        "model": "SM-S921U1",
+        "build_id": [
+            "S921U1OYM4CZA1",
+            "S921U1UES4CZA1"
+        ]
+    },
+    {
+        "model": "SM-S921E",
+        "build_id": [
+            "S921EOXM1BZA1",
+            "S921EXXS1BZA1"
+        ]
+    },
+    {
+        "model": "SM-S921U",
+        "build_id": [
+            "S921UOYN4CYL1",
+            "S921USQS4CYL1"
+        ]
+    },
+    {
+        "model": "SM-S926U",
+        "build_id": [
+            "S926UOYN4CYL1",
+            "S926USQS4CYL1"
+        ]
+    },
+    {
+        "model": "SM-S926B",
+        "build_id": [
+            "S926BOLECCZA1",
+            "S926BOWOCCZA1",
+            "S926BOXMCCZA1",
+            "S926BXXSCCZA1"
+        ]
+    },
+    {
+        "model": "SM-S9260",
+        "build_id": [
+            "S9260OZS4CZA1",
+            "S9260ZCS4CZA1",
+            "S9260ZHS4CZA1"
+        ]
+    },
+    {
+        "model": "SM-S926U1",
+        "build_id": [
+            "S926U1OYM4CZA1",
+            "S926U1UES4CZA1"
+        ]
+    },
+    {
+        "model": "SM-S9370",
+        "build_id": [
+            "S9370OZS5BZA1",
+            "S9370ZCS5BZA1",
+            "S9370ZHS5BZA1"
+        ]
+    },
+    {
+        "model": "SM-S937B",
+        "build_id": [
+            "S937BOWO5BYLR",
+            "S937BOXM5BYLR",
+            "S937BOXM5BYLT",
+            "S937BXXS5BYLR"
+        ]
+    },
+    {
+        "model": "SM-S937U1",
+        "build_id": [
+            "S937U1OYM4BYLR",
+            "S937U1UES4BYLR"
+        ]
+    },
+    {
+        "model": "SM-S937U",
+        "build_id": [
+            "S937UOYN4BYJ9",
+            "S937USQS4BYJ9"
+        ]
+    },
+    {
+        "model": "SM-S731B",
+        "build_id": [
+            "S731BOWO4AZA2",
+            "S731BOXM4AZA2",
+            "S731BXXS4AZA2"
+        ]
+    },
+    {
+        "model": "SM-S938U1",
+        "build_id": [
+            "S938U1OYM7BYLR",
+            "S938U1UES7BYLR"
+        ]
+    },
+    {
+        "model": "SM-S9380",
+        "build_id": [
+            "S9380OZS8BZA1",
+            "S9380ZCS8BZA1",
+            "S9380ZHS8BZA1"
+        ]
+    },
+    {
+        "model": "SM-S938U",
+        "build_id": [
+            "S938UOYN7BYJ9",
+            "S938USQS7BYJ9"
+        ]
+    },
+    {
+        "model": "SM-S938B",
+        "build_id": [
+            "S938BOWO7BYLR",
+            "S938BOXM7BYLR",
+            "S938BOXM7BYLS",
+            "S938BXXS7BYLR"
+        ]
+    },
+    {
+        "model": "SM-S931U",
+        "build_id": [
+            "S931UOYN7BYJ9",
+            "S931USQS7BYJ9"
+        ]
+    },
+    {
+        "model": "SM-S931B",
+        "build_id": [
+            "S931BOWO7BYLR",
+            "S931BOXM7BYLR",
+            "S931BOXM7BYLS",
+            "S931BXXS7BYLR"
+        ]
+    },
+    {
+        "model": "SM-S931U1",
+        "build_id": [
+            "S931U1OYM7BYLR",
+            "S931U1UES7BYLR"
+        ]
+    },
+    {
+        "model": "SM-S9310",
+        "build_id": [
+            "S9310OZS8BZA1",
+            "S9310ZCS8BZA1",
+            "S9310ZHS8BZA1"
+        ]
+    },
+    {
+        "model": "SM-X236B",
+        "build_id": [
+            "X236BOWO2AYL1",
+            "X236BOXM1AYK2",
+            "X236BOXM2AZA4",
+            "X236BXXS2AYL1",
+            "X236BXXU1AYK1",
+            "X236BXXU2AZA4"
+        ]
+    },
+    {
+        "model": "SM-X230",
+        "build_id": [
+            "X230OXM2AZA4",
+            "X230XXU2AZA4"
+        ]
+    },
+    {
+        "model": "SM-S936B",
+        "build_id": [
+            "S936BOWO7BYLR",
+            "S936BOXM7BYLR",
+            "S936BOXM7BYLS",
+            "S936BXXS7BYLR"
+        ]
+    },
+    {
+        "model": "SM-S936U1",
+        "build_id": [
+            "S936U1OYM7BYLR",
+            "S936U1UES7BYLR"
+        ]
+    },
+    {
+        "model": "SM-S9360",
+        "build_id": [
+            "S9360OZS8BZA1",
+            "S9360ZCS8BZA1",
+            "S9360ZHS8BZA1"
+        ]
+    },
+    {
+        "model": "SM-S936U",
+        "build_id": [
+            "S936UOYN7BYJ9",
+            "S936USQS7BYJ9"
+        ]
+    },
+    {
+        "model": "SM-X133",
+        "build_id": [
+            "X133DXS2BYL2",
+            "X133DXS2BYL5",
+            "X133ODM2BYL5",
+            "X133OJM2BYL2",
+            "X133OLE2BYL2",
+            "X133OLM2BYL2",
+            "X133OWO2BYL2",
+            "X133OZS2BYL2"
+        ]
+    },
+    {
+        "model": "SM-X135F",
+        "build_id": [
+            "X135FOXM2BYL2",
+            "X135FXXS2BYL2"
+        ]
+    }
+]
